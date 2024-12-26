@@ -1,0 +1,10 @@
+# Ignore PHP libraries
+vendor/
+
+# Ignore .htaccess files
+.htaccess
+
+# Ignore Composer lock file (optional, depending on your project)
+composer.lock
+
+composer.json
